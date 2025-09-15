@@ -1,1 +1,1 @@
-print("somebranch 입니다")
+print("somebranch 입니다.")

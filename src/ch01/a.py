@@ -1,3 +1,3 @@
 
 
-print("Hello, main branch 입니다")
+print("Hello, main branch 입니다.")
